@@ -441,8 +441,8 @@ In the same screen, Marcus can select a dependency and add its own price, to cho
 
 
 # Notes
-What's remaining:
-1- frontend code: didn't have enough time to implement it, but here's an old project to compensate (hosted version is no longer working): https://github.com/karimkhattaby/smart-brain
-2- implementing interface methods between api and mongodb
-3- implementing api endpoints, here's an old project to compensate (hosted version is no longer working): https://github.com/karimkhattaby/smart-brain-api and https://github.com/karimkhattaby/smart-brain-api-deno
-I can show you more projects during the presentation if required.
+What's remaining:<br>
+1- frontend code: didn't have enough time to implement it, but here's an old project to compensate (hosted version is no longer working): https://github.com/karimkhattaby/smart-brain <br>
+2- implementing interface methods between api and mongodb <br>
+3- implementing api endpoints, here's an old project to compensate (hosted version is no longer working): https://github.com/karimkhattaby/smart-brain-api and https://github.com/karimkhattaby/smart-brain-api-deno <br>
+I can show you more projects during the presentation if required. <br>
